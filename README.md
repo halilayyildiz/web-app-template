@@ -37,6 +37,6 @@ Get the source codes
 -------------------
 Get a copy of the source codes into your local system.
 
-git clone https://github.com/halilayyildiz/web-app-template/
+`git clone https://github.com/halilayyildiz/web-app-template/`
 
 
