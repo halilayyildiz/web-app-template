@@ -3,6 +3,8 @@ Web Application Template
 
 Java based web application template for rapid development.
 
+[![Codewake](https://www.codewake.com/badges/ask_question.svg)](https://www.codewake.com/p/web-app-template)
+
 
 Development Stack
 -----------------------
