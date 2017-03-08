@@ -1,4 +1,4 @@
-package com.siemens.spectrum.om;
+package com.halilayyildiz.projects.template;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

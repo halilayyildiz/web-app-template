@@ -1,4 +1,4 @@
-package com.siemens.spectrum.om.integration;
+package com.halilayyildiz.projects.template;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

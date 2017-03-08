@@ -1,4 +1,4 @@
-package com.siemens.spectrum.om.integration;
+package com.halilayyildiz.projects.template;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
