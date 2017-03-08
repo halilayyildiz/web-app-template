@@ -38,7 +38,7 @@ testem.log
 ### Java ###
 # Compiled class file
 *.class
-target/
+/target
 .settings
 .classpath
 
